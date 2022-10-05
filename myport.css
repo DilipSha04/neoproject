@@ -1,0 +1,125 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rubik&display=swap');
+
+/* 
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+} */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.head{
+    padding: 2rem;
+    background-color: #065f46;
+    color: white;
+    border-bottom-left-radius: 1rem;
+
+}
+h1{
+    font-size: 2rem;
+}
+.container{
+    padding: 1rem;
+}
+.container-center{
+    max-width: 600px;
+    margin: auto;
+}
+.link{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+.link-primary{
+    background-color: #065f46;
+    border-radius: 0.5rem;
+    color: white;
+}
+.link-secondry{
+    border: 1px solid #065f46;
+    border-radius: 0.5rem;
+    color: #065f46;
+}
+
+hr{
+    margin: 2rem 0rem;
+}
+
+.prime-list{
+    list-style: none;
+}
+.second-list{
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+.navigation{
+    background-color: #065f46;
+    color: white;
+    border-bottom-left-radius: 1rem;
+
+}
+.nav-list{
+    display: inline;
+    padding: 0rem 1rem;
+    font-size: large;
+
+}
+.link-nav{
+    color: white;
+    text-decoration: none;
+}
+.navigation .nav-ul{
+    text-align: right;
+    padding: 1rem;
+}
+.nav-brand{
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+.hero{
+    padding: 2rem;
+    
+}
+.hero .hero-img{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+.hero-heading{
+    text-align: center;
+    font-size: 2.5rem;
+    color: #64748b;
+    
+}
+.hero-heading .heading-inverted{
+    color: #065f46;
+}
+
+.section{
+    padding: 2rem;
+
+}
+.section-h1{
+    text-align: center;
+}
+.section-ow{
+    background-color: #e0e4eb;
+    text-align: center;
+    border-top-right-radius: 1rem;
+}
+.icon-link{
+    text-decoration: none;
+    color: white;
+}
+.footer{
+    background-color: #065f46;
+    padding: 2rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
+.footer-head{
+    font-size: 1.8rem;
+    font-weight: 500;
+}
