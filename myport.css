@@ -68,14 +68,15 @@ hr{
 .link-nav{
     color: white;
     text-decoration: none;
+    font-size: 1.4rem;
 }
 .navigation .nav-ul{
     text-align: right;
-    padding: 1rem;
+    
 }
 .nav-brand{
     font-weight: 700;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
 }
 .hero{
     padding: 2rem;
