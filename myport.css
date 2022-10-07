@@ -137,7 +137,8 @@ hr{
     .nav-list{
         display: block;
     }
-
-
+    #nav-menu{
+        display: block;
+    }
 
 }
