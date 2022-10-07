@@ -124,3 +124,20 @@ hr{
     font-size: 1.8rem;
     font-weight: 500;
 }
+.icon{
+    font-size: 1.5rem;
+    text-align: right;
+    display: none;
+}
+
+@media only screen and (max-width: 700px){
+    .icon{
+        display: block;
+    }
+    .nav-list{
+        display: block;
+    }
+
+
+
+}
