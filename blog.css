@@ -27,11 +27,16 @@ body{
 }
 .navigation .nav-ul{
     text-align: right;
+    padding: 1rem;
     
 }
 .nav-brand{
     font-weight: 700;
     font-size: 1.8rem;
+    padding: 1rem;
+}
+p{
+    padding-left: 1rem;
 }
 .icon{
     font-size: 1.5rem;
@@ -52,7 +57,7 @@ body{
         display: block;
     }
     .nav-brand{
-        padding: 1rem;
+        padding-left: 1rem;
     }
     p{
         padding: 1rem;
